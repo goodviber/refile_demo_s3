@@ -1,5 +1,9 @@
 == README
 
+Code repo for Rails, Refile, S3 and Cloudfront AWS walkthrough.
+
+GOTO www.8balldigital.co.uk/news for full tutorial
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
