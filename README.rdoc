@@ -2,7 +2,7 @@
 
 Code repo for Rails, Refile, S3 and Cloudfront AWS walkthrough.
 
-GOTO www.8balldigital.co.uk/news for full tutorial
+GOTO www.8balldigital.co.uk/posts/image-uploads-with-refile-s3-and-cloudfront for full tutorial
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
